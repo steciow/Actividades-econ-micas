@@ -1,0 +1,246 @@
+PP04B_COD,Actividad
+1.0,"Agricultura, Ganadería, Caza y Actividades de Apoyo"
+101.0,Cultivos agrícolas
+102.0,Cría de animales
+103.0,Cultivo de productos agrícolas en combinación con la cría de animales
+104.0,"Servicios agrícolas y pecuarios, excepto los veterinarios"
+105.0,"Caza y captura de animales vivos, repoblación de animales de caza y servicios de apoyo"
+2.0,"Silvicultura, Extracción de Madera y Actividades de Apoyo"
+200.0,"Silvicultura, extracción de madera y actividades de apoyo"
+3.0,"Pesca, Acuicultura y Actividades de Apoyo"
+300.0,"Pesca, acuicultura y actividades de apoyo"
+5.0,Extracción de Carbón y Lignito
+500.0,Extracción de carbón y lignito
+6.0,Extracción de Petróleo Crudo y Gas Natural
+600.0,Extracción de petróleo crudo y gas natural
+7.0,Extracción de Minerales Metalíferos
+700.0,Extracción de minerales metalíferos
+8.0,Explotación de otras Minas y Canteras
+800.0,Explotación de otras minas y canteras
+9.0,Actividades de Apoyo a la Explotación de Minas y Canteras
+900.0,Actividades de apoyo a la explotación de minas y canteras
+10.0,Elaboración de Productos Alimenticios
+1001.0,Elaboración de Productos Alimenticios
+1002.0,Elaboración de Productos Alimenticios
+1003.0,Elaboración de Productos Alimenticios
+1009.0,Elaboración de Productos Alimenticios
+101.0,Producción y procesamiento de carne y pescado
+102.0,"Preparación de frutas, hortalizas y legumbres; aceites y grasas"
+103.0,Elaboración de productos lácteos
+109.0,Elaboración de productos alimenticios n.c.p.
+11.0,Elaboración de Bebidas
+1100.0,Elaboración de bebidas
+12.0,Elaboración de Productos de Tabaco
+1200.0,Elaboración de productos de tabaco
+13.0,"Fabricación de Productos Textiles, excepto Prendas de Vestir"
+1300.0,"Fabricación de productos textiles, excepto prendas de vestir"
+14.0,"Confección de Prendas de Vestir, Terminación y Teñido de Pieles"
+1400.0,"Confección de prendas de vestir, terminación y teñido de pieles"
+15.0,Fabricación de Cuero y Productos Conexos
+1501.0,"Curtido y terminación de cueros; fabricación de maletas, bolsos de mano y artículos de talabartería y guarnicionería; teñido de pieles"
+1502.0,Fabricación de calzado y sus partes
+16.0,"Producción de Madera y Fabricación de Productos de Madera y Corcho, excepto Muebles; Fabricación de Artículos de Paja y de Materiales Trenzables"
+1600.0,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles;fabricación de artículos de paja y de materiales trenzables"
+17.0,Fabricación de Papel y Productos de Papel
+1700.0,Fabricación de papel y productos de papel
+18.0,Actividades de Impresión y Servicios de Apoyo; Reproducción de Grabaciones
+1800.0,Actividades de impresión y servicios de apoyo; reproducción de grabaciones
+19.0,Fabricación de coque y de productos de la refinación del petróleo
+1901.0,Fabricación de productos de hornos de coque
+1902.0,Fabricación de productos de la refinación del petróleo
+20.0,Fabricación de Sustancias y Productos Químicos
+2001.0,Fabricación de Sustancias y Productos Químicos
+2002.0,Fabricación de Sustancias y Productos Químicos
+2009.0,Fabricación de Sustancias y Productos Químicos
+201.0,"Fabricación de pinturas, barnices y productos de revestimiento similares, tintas de imprentay masillas"
+202.0,"Fabricación de jabones y detergentes, preparados para limpiar y pulir, perfumes y preparados de tocador"
+209.0,Fabricación de otros productos químicos n.c.p. Productos Botánicos
+21.0,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos"
+2100.0,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos"
+22.0,Fabricación de Productos de Caucho y Plástico
+2201.0,Fabricación de productos de caucho
+2202.0,Fabricación de productos de plástico
+23.0,Fabricación de Productos de Minerales No Metálicos
+2301.0,Fabricación de vidrio y productos de vidrio
+2309.0,Fabricación de productos minerales no metálicos n.c.p.
+24.0,Fabricación de Metales
+2400.0,Fabricación de metales
+25.0,"Fabricación de Productos Elaborados de Metal y Servicios de Trabajos de Metales, excepto Máquinas y Equipos"
+2500.0,"Fabricación de productos elaborados de metal y servicios de trabajos de metales, excepto máquinas y equipos"
+26.0,"Fabricación de Equipos Informáticos, Electrónicos y Ópticos"
+2601.0,Fabricación de componentes electrónicos
+2602.0,Fabricación de equipos informáticos y periféricos
+2603.0,"Fabricación de equipos y aparatos de radio, televisión y comunicaciones"
+2604.0,"Fabricación de equipos electromédicos, ópticos y de precisión; fabricación de relojes; soportes magnéticos y ópticos"
+27.0,Fabricación de Maquinaria y Equipos Eléctricos
+2701.0,"Fabricación de aparatos de uso doméstico, excepto equipos de audio y video"
+2709.0,Fabricación de otras maquinarias y equipos eléctricos n.c.p.
+28.0,Fabricación de Maquinarias y Equipos n.c.p.
+2800.0,Fabricación de maquinarias y equipos n.c.p.
+29.0,"Fabricación de Vehículos Automotores, Remolques y Semirremolques"
+2900.0,"Fabricación de vehículos automotores, remolques y semirremolques"
+30.0,Fabricación de Otros Equipos de Transporte n.c.p.
+3001.0,Fabricación de Otros Equipos de Transporte n.c.p.
+3003.0,Fabricación de Otros Equipos de Transporte n.c.p.
+3009.0,Fabricación de Otros Equipos de Transporte n.c.p.
+301.0,Construcción de buques y otras embarcaciones
+302.0,Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías
+303.0,Fabricación de aeronaves
+309.0,Fabricación de otros equipos de transporte n.c.p.
+31.0,Fabricación de Muebles y Colchones
+3100.0,Fabricación de muebles y colchones
+32.0,Industrias Manufactureras n.c.p.
+3200.0,Industrias manufactureras n.c.p.
+33.0,"Mantenimiento, Reparación e Instalación de Máquinas y Equipos"
+3300.0,"Mantenimiento, reparación e instalación de máquinas y equipos"
+35.0,"Electricidad, Gas, Vapor y Aire Acondicionado"
+3501.0,"Generación, transmisión y distribución de energía eléctrica"
+3502.0,Fabricación de gas; distribución de combustibles gaseosos por tuberías; suministro de vapor y aire acondicionado
+36.0,"Captación, Tratamiento y Suministro de Agua"
+3600.0,"Captación, tratamiento y suministro de agua"
+37.0,Alcantarillado
+3700.0,Alcantarillado
+38.0,"Recolección, Tratamiento y Eliminación de Desechos; Recuperación de Materiales"
+3800.0,"Recolección, tratamiento y eliminación de desechos; recuperación de materiales"
+39.0,Actividades de Saneamiento y otros Servicios de Gestión de Desechos
+3900.0,Actividades de saneamiento y otros servicios de gestión de desechos
+40.0,Construcción
+400.0,Construcción
+4000.0,Construcción
+45.0,Comercio y Reparación de Vehículos Automotores y Motocicletas
+4501.0,"Venta de vehículos automotores, excepto motocicletas"
+4502.0,"Mantenimiento y reparación de vehículos automotores, excepto motocicletas"
+4503.0,"Venta de partes, piezas y accesorios de vehículos automotores, excepto motocicletas"
+4504.0,"Venta, mantenimiento y reparación de motocicletas y de sus piezas y accesorios"
+48.0,"Comercio, Excepto de Vehículos Automotores y Motocicletas"
+4801.0,Comercio de intermediación
+4802.0,Comercio de materias primas agropecuarias
+4803.0,"Comercio de alimentos, bebidas y tabaco"
+4804.0,"Comercio de textiles y avíos, mercería, prendas de vestir, calzado, marroquinería y artículos similares"
+4805.0,"Comercio de materiales de construcción, artículos de ferretería, plomería, pinturería, espejos y artículos para revestimiento"
+4806.0,Comercio de combustibles para vehículos
+4807.0,Comercio de mercaderías n.c.p. incluso mercaderías usadas
+4808.0,Tiendas no especializadas con predominancia de alimentos y bebidas
+4809.0,Tiendas no especializadas sin predominancia de alimentos y bebidas
+4810.0,Venta al por menor en puestos móviles y no realizadas en tiendas n.c.p.
+4811.0,"Venta al por menor por correo, televisión, internet y otros medios de comunicación"
+49.0,Transporte Terrestre y por Tuberías
+4901.0,Transporte ferroviario
+4902.0,Transporte por metro
+4903.0,Transporte automotor de pasajeros
+4904.0,Transporte automotor de cargas
+4905.0,Transporte por tuberías
+4909.0,Transporte terrestre n.c.p.
+50.0,Transporte por Vía Acuática
+500.0,Transporte por vía acuática
+5000.0,Transporte por vía acuática
+51.0,Transporte Aéreo
+5100.0,Transporte aéreo
+52.0,Almacenamiento y Actividades Auxiliares al Transporte
+5201.0,Depósito y almacenamiento
+5202.0,Servicios auxiliares al transporte
+53.0,Correo y Servicios de Mensajería
+5300.0,Correo y servicio de mensajería
+55.0,"Servicios de Alojamiento en Hoteles, Campamentos y otro tipo de Hospedaje Temporal"
+5500.0,"Servicios de alojamiento en hoteles, campamentos y otros tipos de hospedaje temporal"
+56.0,Servicios de Comidas y Bebidas
+5601.0,"Servicios de expendio de comidas y bebidas, excepto por vendedores ambulantes"
+5602.0,Servicios de expendio de comidas y bebidas por vendedores ambulantes
+58.0,"Edición de Libros, Periódicos y otras Publicaciones, incluso integrada a la Impresión"
+5800.0,"Edición de libros, periódicos y otras publicaciones, incluso integrada a la impresión"
+59.0,Actividades Cinematográficas; Producción de Vídeos y Programas de Televisión; Grabación Sonora y Edición de Música
+5900.0,Actividades cinematográficas; producción de vídeos y programas de televisión; grabación sonora y edición de música
+60.0,Actividades de Programación y Difusión de Radio y Televisión
+600.0,Actividades de programación y difusión de radio y televisión
+6000.0,Actividades de programación y difusión de radio y televisión
+61.0,Telecomunicaciones
+6100.0,Telecomunicaciones
+62.0,Actividades de Programación y Consultoría Informáticas y otras Actividades Conexas
+6200.0,Actividades de programación y consultoría informáticas y otras actividades conexas
+63.0,Actividades de Servicios de Información
+6300.0,Actividades de servicios de información
+64.0,"Intermediación Financiera y Otros Servicios Financieros, excepto los de Seguros y Administración de Fondos de Jubilaciones y Pensiones"
+6400.0,"Intermediación financiera y otros servicios financieros, excepto los de seguros y administración de fondos de jubilaciones y pensiones"
+65.0,"Seguros, reaseguros y fondos de pensiones, excepto los planes de seguridad social de afiliación"
+6500.0,"Seguros, reaseguros y fondos de pensiones, excepto los planes de seguridad social de afiliación obligatoria"
+66.0,Actividades Auxiliares a los Servicios Financieros y a los Seguros
+6600.0,Actividades auxiliares a los servicios financieros y a los seguros
+68.0,Actividades Inmobiliarias
+6800.0,Actividades inmobiliarias
+69.0,Actividades Jurídicas y de Contabilidad
+6900.0,Actividades jurídicas y de contabilidad
+70.0,Actividades de Servicio de Consultoría en Gestión Empresarial
+700.0,Actividades de servicios de consultoría en gestión empresarial
+7000.0,Actividades de servicios de consultoría en gestión empresarial
+71.0,Servicios de Arquitectura e Ingeniería; Ensayos y Análisis Técnicos
+7100.0,Servicios de arquitectura e ingeniería; ensayos y análisis técnicos
+72.0,Investigación y Desarrollo
+7200.0,Investigación y desarrollo
+73.0,Publicidad e Investigación de Mercados
+7301.0,Actividades publicitarias
+7302.0,Investigación de mercados y encuestas de opinión pública
+74.0,"Otras Actividades Profesionales, Científicas y Técnicas"
+7400.0,"Otras actividades profesionales, científicas y técnicas"
+75.0,Actividades Veterinarias
+7500.0,Actividades veterinarias
+77.0,"Actividades de Alquiler y Arrendamiento, excepto Inmuebles, y Gestión de los Activos Intangibles No Financieros"
+7701.0,Alquiler de efectos personales y domésticos
+7702.0,Alquiler de vehículos de transporte; de maquinaria y equipo sin operador y gestión de activos intangibles no financieros
+78.0,Actividades Relacionadas con el Suministro de Empleo
+7800.0,Actividades relacionadas con el suministro de empleo
+79.0,"Agencias de Viajes, Operadores Turísticos y Actividades Conexas"
+7900.0,"Agencias de viajes, operadores turísticos y actividades conexas"
+80.0,Actividades de Investigación y Seguridad
+800.0,Actividades de investigación y seguridad
+8000.0,Actividades de investigación y seguridad
+81.0,Servicios de Apoyo a Edificios y Actividades de Limpieza en General; Servicios de Paisajismo y Jardinería
+8101.0,Servicios de apoyo a edificios y actividades de limpieza en general
+8102.0,Servicios de paisajismo y jardinería
+82.0,Actividades Administrativas de Oficinas y otras Actividades Auxiliares de las Empresas
+8200.0,Actividades administrativas de oficinas y otras actividades auxiliares de las empresas
+83.0,Planes Sociales
+8300.0,Planes sociales
+84.0,Administración Pública y Defensa; Planes de Seguro Social Obligatorio
+8401.0,Servicios de la administración pública y prestación pública de servicios a la comunidad
+8402.0,"Servicios de seguridad pública (Fuerzas Armadas, policías, etc.)"
+8403.0,Servicios de la seguridad social obligatoria
+85.0,Enseñanza
+8501.0,"Enseñanza inicial y primaria, secundaria y superior"
+8509.0,"Otros tipos de enseñanza n.c.p., y servicios de apoyo"
+86.0,Actividades de Atención a la Salud Humana
+8600.0,Actividades de atención a la salud humana
+87.0,Asistencia Social Relacionada con la Atención a la Salud
+8700.0,Asistencia social relacionada con la atención a la salud
+88.0,Servicios Sociales sin Alojamiento
+8800.0,Servicios sociales sin alojamiento
+90.0,Actividades Artísticas y de Espectáculos
+900.0,Actividades artísticas y de espectáculos
+9000.0,Actividades artísticas y de espectáculos
+91.0,"Actividades de Bibliotecas, Archivos, Museos y otras Actividades Culturales"
+9100.0,"Actividades de bibliotecas, archivos, museos y otras actividades culturales"
+92.0,Actividades de Juegos de Azar y Apuestas
+9200.0,Actividades de juegos de azar y apuestas
+93.0,Actividades Deportivas y de Entretenimiento
+9301.0,Actividades para la práctica deportiva
+9302.0,Actividades de entretenimiento n.c.p.
+94.0,Actividades de Asociaciones
+9401.0,"Actividades de organizaciones empresariales, profesionales y de empleadores"
+9402.0,Actividades de sindicatos
+9409.0,Actividades de asociaciones n.c.p.
+95.0,Reparación de Equipos Informáticos y de Comunicación; Efectos de uso Personal Y Doméstico
+9501.0,Reparación de equipos informáticos
+9502.0,Reparación de equipos de comunicación
+9503.0,Reparación de efectos de uso personal y doméstico
+96.0,Otras Actividades de Servicios Personales
+9601.0,"Lavado y limpieza de artículos de tela, cuero y o de piel incluso limpieza en seco"
+9602.0,Servicios de peluquería y tratamientos de belleza
+9603.0,Pompas fúnebres y servicios conexos
+9609.0,Servicios personales n.c.p.
+97.0,Actividades de los Hogares como Empleadores de Personal Doméstico
+9700.0,Actividades de los hogares como empleadores de personal doméstico
+98.0,Actividades de los Hogares como Productores de Bienes o Servicios para uso Propio
+9800.0,Actividades de los hogares como productores de bienes o servicios para uso propio
+99.0,Actividades de Organizaciones y Organismos Extraterritoriales
+9900.0,Actividades de organizaciones y organismos extraterritoriales
+9999.0,NS/NC
+ ,NS/NC
